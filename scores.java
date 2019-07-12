@@ -24,3 +24,4 @@ public class scores {
 	System.out.println(ave);
 	}
 }
+//1
