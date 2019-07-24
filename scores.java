@@ -18,7 +18,7 @@ public class scores {
 	return ave;
 	}
 	
-	public static void main(String[] args){
+	public static void main(String[] args) {
 	int[] scores = {10, 9, 8, 7, 6};
 	double ave = average(scores);
 	System.out.println(ave);
